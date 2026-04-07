@@ -22,10 +22,6 @@ Este repositorio proporciona acceso a una máquina virtual VMware preconfigurada
 
 **Tamaño del Archivo:** ~25-30 GB (comprimido)
 
-**Enlace Magnet del Torrent:**
-```magnet
-magnet:?xt=urn:btih:PLACEHOLDER_HASH_HERE&dn=macOS-Ventura-13.3.1-VMware&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
-```
 
 ### Clientes Torrent
 
@@ -42,17 +38,6 @@ Clientes torrent recomendados:
 3. **Espere a que se complete la descarga** (puede tomar varias horas dependiendo de su conexión)
 4. **Verifique la descarga** usando las sumas de verificación proporcionadas
 
-### Verificación de Archivos
-
-Después de la descarga, verifique la integridad del archivo:
-
-```bash
-# Suma de verificación SHA256 (actualizar con hash real)
-sha256sum macOS-Ventura-13.3.1-VMware.ova
-
-# SHA256 esperado (actualizar con valor real)
-# PLACEHOLDER_SHA256_HASH_HERE
-```
 
 ### Salud del Torrent
 
